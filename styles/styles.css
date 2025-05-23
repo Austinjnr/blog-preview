@@ -90,3 +90,13 @@ h1 {
   font-weight: 700;
   color: hsl(0, 0%, 7%);
 }
+
+@media (max-width: 450px) {
+  .blog-card {
+  width: 70%;
+}
+.blog-image {
+  width: 100%;
+}
+
+}
